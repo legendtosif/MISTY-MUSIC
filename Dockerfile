@@ -9,4 +9,4 @@ WORKDIR /app/
 
 RUN pip3 install -r requirements.txt --force-reinstall
 
-CMD python3 -m Sanatani
+CMD python3 -m Zoyu
