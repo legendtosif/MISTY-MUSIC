@@ -207,7 +207,7 @@ async def main():
         LOGGER.info(f"🚫 Assistant Error: {e}")
         sys.exit()
     try:
-        await app.join_chat("AdityaServer")
+        await app.join_chat("The_incricible")
         await app.join_chat("AdityaDiscus")
     except Exception:
         pass
@@ -343,11 +343,11 @@ async def add_served_user(user_id: int):
 CBUTTON = InlineKeyboardMarkup(
     inline_keyboard=[
         [
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/+OL6jdTL7JAJjYzVl")
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/llVAMPIRE_UPDATESll")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/BABY09_WORLD"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+tHAENx_r_mtlODZl")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/VAMPIRE_WORLD_XD"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/llVAMPIRE_UPDATESll")
         ],
         [
             InlineKeyboardButton("↺ ʙᴧᴄᴋ ↻", callback_data="back_to_home")
@@ -440,13 +440,13 @@ async def start_message_private(client, message):
             await asyncio.sleep(0.005)  # Adjust speed of progress here
 
         # After progress bar reaches 100%, send final message and delete it
-        await baby.edit_text("**❖ Yᴀ Aʟɪ Mᴀᴅᴀᴅ  🚩...**")
+        await baby.edit_text("**❖ Yᴀ Aʟɪ Mᴀᴅᴀᴅ  🇮🇳...**")
         await asyncio.sleep(1)  # Wait for 2 seconds before deletion
         await baby.delete()
 
         caption = f"""╭───────────────────▣
 │**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ 【◖ Zɪᴅᴅɪ ◗ 】 🚩 •**
+│**❍ ɪ ᴀᴍ 【◖ Zɪᴅᴅɪ ◗ 】 🇮🇳 •**
 ├───────────────────▣**
 │**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
 │**❍ ᴍᴀᴅᴇ ʙʏ...[˹ ᴢɪᴅᴅɪ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/VAMPIRE_WORLD_XD) •**
@@ -485,7 +485,7 @@ async def start_message_private(client, message):
 
         if START_IMAGE_URL:
             try:
-                return await message.reply_video(
+                return await message.reply_photo(
                     video=START_IMAGE_URL, caption=caption, reply_markup=buttons
                 )
             except Exception as e:
@@ -512,7 +512,7 @@ async def back_to_home_menu(client, query):
     mention = query.from_user.mention
     caption = f"""╭───────────────────▣
 │**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ 【◖ Zɪᴅᴅɪ ◗ 】 🚩 •**
+│**❍ ɪ ᴀᴍ 【◖ Zɪᴅᴅɪ ◗ 】 🇮🇳 •**
 ├───────────────────▣**
 │**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
 │**❍ ᴍᴀᴅᴇ ʙʏ...[˹ ᴢɪᴅᴅɪ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/llVAMPIRE_UPDATESll) •**
@@ -1490,7 +1490,7 @@ async def git_repo_link(client, message):
     if message.chat.type == ChatType.PRIVATE:
         caption = f"""```
 ◖ Sαηαтαηι ◗ Sᴛᴀᴛs```
-➠ Sᴛᴀᴛs ᴏғ sᴀɴᴀᴛᴀɴɪ ᴠɪʙᴇs"""
+➠ Sᴛᴀᴛs ᴏғ ᴢɪᴅᴅɪ ᴠɪʙᴇs"""
     else:
         caption = f"** Hᴇʟʟᴏ, {mention}.**"
     buttons = InlineKeyboardMarkup(
