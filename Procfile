@@ -1,1 +1,1 @@
-worker: python3 -m Sanatani
+worker: python3 -m Zoyu
