@@ -85,11 +85,11 @@ API_HASH = getenv("API_HASH", "a2ffcec7055298fab58388c60017e66b")
 BOT_TOKEN = getenv("BOT_TOKEN", "7745886066:AAHfPNJsjZr0nP4J53KvhN7iQFn7DURfc9k")
 STRING_SESSION = getenv("STRING_SESSION", "BQFphfMAQKOEGD6jxpyRKMtZeUfJEb0nirnIoytaM4kaI5EEAwBjgRQQV89e7B3r5RObpNuxNO26ZsuSF5wB9UMqR9G_0GsgKe587SueXFX24AS-oXexkH8jpXCQVh7OVEOMjMAQzYbn9TG9J3KRIBZuaD_r7BhlCU0jw1fZc5xUDn9zFhAOihnZ2evWI36uwuPenTuyglJYNQ-KTdDR5JXsAvHUtwE0zD4fXfvCLY86GihV_WyMEg3SLQB7gO-v9LWH-yz7Oi5X6s8gzHqLgwMnIaam6-rzVb0oKoUDr6DNF39e-xz5K8AP-bZsMoQalDpSE9q_4id0UEi9mTUw-uuIhEBV9QAAAAG9N4BuAA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority")
-OWNER_ID = int(getenv("OWNER_ID", "7597032252"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002388178347"))
-START_IMAGE_URL = getenv("START_IMAGE_URL", "https://files.catbox.moe/t2s51z.jpg")
-REPO_IMAGE_URL = getenv("REPO_IMAGE_URL", "https://files.catbox.moe/108x6m.jpg")
-STATS_IMAGE_URL = getenv("STATS_IMAGE_URL", "https://files.catbox.moe/108x6m.jpg")
+OWNER_ID = int(getenv("OWNER_ID", "7520092354"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002046320443"))
+START_IMAGE_URL = getenv("START_IMAGE_URL", "https://files.catbox.moe/mhtpbr.jpg")
+REPO_IMAGE_URL = getenv("REPO_IMAGE_URL", "https://files.catbox.moe/mhtpbr.jpg")
+STATS_IMAGE_URL = getenv("STATS_IMAGE_URL", "https://files.catbox.moe/mhtpbr.jpg")
 
 
 # Memory Database
