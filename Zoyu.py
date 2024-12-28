@@ -343,11 +343,11 @@ async def add_served_user(user_id: int):
 CBUTTON = InlineKeyboardMarkup(
     inline_keyboard=[
         [
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/llVAMPIRE_UPDATESll")
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/THE_INCRICIBLE")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/VAMPIRE_WORLD_XD"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/llVAMPIRE_UPDATESll")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/THE_INCRICIBLE"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/The_Incricible/817")
         ],
         [
             InlineKeyboardButton("↺ ʙᴧᴄᴋ ↻", callback_data="back_to_home")
@@ -368,7 +368,7 @@ ABUTTON = InlineKeyboardMarkup(
 HELP_C = """```
 ⌬ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍᴜsɪᴄ ʙᴏᴛ```
 
-**⌬ [【◖ Zɪᴅᴅɪ ◗ 】 🚩](https://t.me/llVAMPIRE_UPDATESll) ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ**
+**⌬ [【◖ Zɪᴅᴅɪ ◗ 】 🚩](https://t.me/THE_INCRICIBLE) ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ**
 ```\n⌬ ʙᴇsᴛ ғᴇᴀsɪʙɪʟɪᴛʏ ᴏɴ ᴛᴏᴘ  ?```
 
 **␥ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ
@@ -383,7 +383,7 @@ HELP_C = """```
 
 ᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ
 
-⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/llVAMPIRE_UPDATESll)**"""
+⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/the_incricible)**"""
 
 HELP_X = """```
     【◖ Zɪᴅᴅɪ ◗】 🚩 ᴍᴇɴᴜ```
@@ -400,7 +400,7 @@ HELP_X = """```
 
 ␥ /end - Cʟᴇᴀʀ , ᴇɴᴅ ᴀʟʟ sᴏɴɢ [ᴀᴜɪᴅᴏ & ᴠɪᴅᴇᴏ]
 
-V ɪ s ɪ ᴛ - [ʜᴇʀᴇ](https://t.me/VAMPIRE_WORLD_XD)"""
+V ɪ s ɪ ᴛ - [ʜᴇʀᴇ](https://t.me/The_incricible)"""
 
 # Callback query handler
 @bot.on_callback_query(filters.regex("UTTAM_RATHORE"))
@@ -449,7 +449,7 @@ async def start_message_private(client, message):
 │**❍ ɪ ᴀᴍ 【◖ Zɪᴅᴅɪ ◗ 】 🇮🇳 •**
 ├───────────────────▣**
 │**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
-│**❍ ᴍᴀᴅᴇ ʙʏ...[˹ ᴢɪᴅᴅɪ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/VAMPIRE_WORLD_XD) •**
+│**❍ ᴍᴀᴅᴇ ʙʏ...[˹ ᴍɪsᴛʏ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/The_incricible) •**
 ╰───────────────────▣"""
 
         buttons = InlineKeyboardMarkup(
@@ -477,7 +477,7 @@ async def start_message_private(client, message):
                     ),
                     InlineKeyboardButton(
                         text="˹ ʀᴇᴘᴏ ˼",
-                        url="https://t.me/VAMPIRE_WORLD_XD",  # Callback data for Owner button
+                        url="https://t.me/The_incricible",  # Callback data for Owner button
                     ),
                 ]
             ]
@@ -512,10 +512,10 @@ async def back_to_home_menu(client, query):
     mention = query.from_user.mention
     caption = f"""╭───────────────────▣
 │**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ 【◖ Zɪᴅᴅɪ ◗ 】 🇮🇳 •**
+│**❍ ɪ ᴀᴍ 【◖ Mɪsᴛʏ ◗ 】 🇮🇳 •**
 ├───────────────────▣**
 │**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
-│**❍ ᴍᴀᴅᴇ ʙʏ...[˹ ᴢɪᴅᴅɪ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/llVAMPIRE_UPDATESll) •**
+│**❍ ᴍᴀᴅᴇ ʙʏ...[˹ ᴍɪsᴛʏ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/The_Incricible) •**
 ╰───────────────────▣"""
 
     buttons = InlineKeyboardMarkup(
@@ -543,7 +543,7 @@ async def back_to_home_menu(client, query):
                 ),
                 InlineKeyboardButton(
                     text="˹ ʀᴇᴘᴏ ˼",
-                    url="https://t.me/llVAMPIRE_UPDATESll",  # Callback data for Owner button
+                    url="https://t.me/The_Incricible",  # Callback data for Owner button
                 ),
             ]
         ]
@@ -899,15 +899,15 @@ async def change_stream(chat_id):
 
     await call.play(chat_id, stream_media, config=call_config)
     await add_active_media_chat(chat_id, stream_type)
-    caption = f"""```\n🔊<b>【◖ Zɪᴅᴅɪ ◗ 】🚩•```\n<b>␥ ʟʏʀɪᴄ •</b> {title}\n<b>␥ ᴛɪᴍᴇ •</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>␥ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ •</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ ʙᴀʙʏ-ᴍᴜsɪᴄ™˼```"""
+    caption = f"""```\n🔊<b>【◖ Mɪsᴛʏ ◗ 】🚩•```\n<b>␥ ʟʏʀɪᴄ •</b> {title}\n<b>␥ ᴛɪᴍᴇ •</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>␥ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ •</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ ᴍɪsᴛʏ-ᴍᴜsɪᴄ™˼```"""
     buttons = InlineKeyboardMarkup(
     inline_keyboard=[
         [
             InlineKeyboardButton(
-                text="˹ ᴜᴘᴅᴀᴛᴇ ˼", url="https://t.me/llVAMPIRE_UPDATESll"
+                text="˹ ᴜᴘᴅᴀᴛᴇ ˼", url="https://t.me/The_Incricible"
             ),
             InlineKeyboardButton(
-                text="˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/VAMPIRE_WORLD_XD"
+                text="˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/The_Incricible"
             )
         ],
         [
@@ -1005,10 +1005,10 @@ async def stream_audio_or_video(client, message):
     inline_keyboard=[
         [
             InlineKeyboardButton(
-                text="˹ ᴜᴘᴅᴀᴛᴇ ˼", url="https://t.me/llVAMPIRE_UPDATESll"
+                text="˹ ᴜᴘᴅᴀᴛᴇ ˼", url="https://t.me/The_Incricible"
             ),
             InlineKeyboardButton(
-                text="˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/VAMPIRE_WORLD_XD"
+                text="˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/The_Incricible"
             )
         ],
         [
@@ -1084,10 +1084,10 @@ async def stream_audio_or_video(client, message):
     inline_keyboard=[
         [
             InlineKeyboardButton(
-                text="˹ ᴜᴘᴅᴀᴛᴇ ˼", url="https://t.me/llVAMPIRE_UPDATESll"
+                text="˹ ᴜᴘᴅᴀᴛᴇ ˼", url="https://t.me/The_Incricible"
             ),
             InlineKeyboardButton(
-                text="˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/VAMPIRE_WORLD_XD"
+                text="˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/The_Incricible"
             )
         ],
         [
@@ -1411,11 +1411,11 @@ async def git_repo_link(client, message):
         [
             InlineKeyboardButton(
                 text="˹ sᴜᴘᴘᴏꝛᴛ ˼",
-                url="https://t.me/VAMPIRE_WORLD_XD"
+                url="https://t.me/The_Incricible"
             ),
             InlineKeyboardButton(
                 text="˹ sᴏᴜꝛᴄᴇ ˼",
-                url="https://t.me/llVAMPIRE_UPDATESll"
+                url="https://t.me/The_Incricible"
             ),
         ],
         [
